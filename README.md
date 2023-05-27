@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sathwikshaga
+- 👋 Hi, I’m @SathwikShaga
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C++, Python
 - 💞️ I’m looking to collaborate on ...
