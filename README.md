@@ -15,10 +15,6 @@ LeetCode ► https://leetcode.com/sathwikshaga/
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Sathwikshaga"><img src="https://github-readme-stats.vercel.app/api?username=Sathwikshaga&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sathwikshaga's GitHub stats" /></a>
-
 
 <!---
 Sathwikshaga/Sathwikshaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
