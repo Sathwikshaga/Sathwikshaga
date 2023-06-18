@@ -10,6 +10,9 @@ CodeForces ► https://codeforces.com/profile/sathwikshaga
 CodeChef ► https://www.codechef.com/users/sathwik_shaga
 LeetCode ► https://leetcode.com/sathwikshaga/
 
+### Leetcode
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sathwikshaga?hide=ranking)](https://leetcode.com/sathwikshaga)
+
 <!---
 Sathwikshaga/Sathwikshaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
