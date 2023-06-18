@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @SathwikShaga
-
-- Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sathwik Shaga
+- 👋 Hi, My name is Sathwik Shaga
 - 👀 I’m interested in Competitive Programming
 - ✉️ You can contact me at [shagasathwik@icloud.com](mailto:shagasathwik@icloud.com)
 - 🌱 I’m currently learning DSA, C++, Python
