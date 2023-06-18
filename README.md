@@ -1,4 +1,5 @@
 - 👋 Hi, My name is Sathwik Shaga
+- 🌍  I'm based in India
 - 👀 I’m interested in Competitive Programming
 - ✉️ You can contact me at [shagasathwik@icloud.com](mailto:shagasathwik@icloud.com)
 - 🌱 I’m currently learning DSA, C++, Python
