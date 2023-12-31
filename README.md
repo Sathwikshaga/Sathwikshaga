@@ -87,7 +87,7 @@ LeetCode ► https://leetcode.com/sathwikshaga/
 </p>
 
 
- Connect with me
+ <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
