@@ -24,17 +24,17 @@
 
 <!-- - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB** -->
 
-- 🌍  I'm based in India
+- 🌍 I'm based in India
 
 - 📫 Feel free to reach me out [shagasathwik@gmail.com](mailto:shagasathwik@gmail.com)
 
--  👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development
 
 - 🌱 I’m currently learning **Nodejs, React, DSA**
 
 <!-- - 💞️ I’m looking to collaborate on ...-->
 
-- 📫 How to reach me ...
+<!-- - 📫 How to reach me ... -->
 # My Profile Links      
 CodeForces ► https://codeforces.com/profile/sathwikshaga   
 CodeChef ► https://www.codechef.com/users/sathwik_shaga
