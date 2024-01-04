@@ -76,8 +76,8 @@ LeetCode ► https://leetcode.com/sathwikshaga/
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,md,html,css,js,vscode&perline=14" />
-<!-- ,git,github,linux,nodejs,express,bash,mongodb,react,tailwind -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,md,html,css,js,vscode,bash&perline=14" />
+<!-- ,git,github,linux,nodejs,express,mongodb,react,tailwind -->
 <!--     git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode -->
   </a>
 </p>
