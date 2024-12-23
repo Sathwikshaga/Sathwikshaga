@@ -21,14 +21,14 @@ LeetCode ► https://leetcode.com/sathwikshaga/
 
 ## 📈 Coding profiles stats
 
-<a href="https://codeforces.com/profile/sathwikshaga">
-<img align="center" height="322" src="stats/codeforces_stats.svg" alt="sathwikshaga Codeforces Stats"/>
-</a>
-<a href="https://leetcode.com/sathwikshaga">
-<img align="center" height="322" src="stats/leetcode_stats.svg" alt="RedHeadphone Leetcode Stats"/>
-</a>
+<!-- <a href="https://codeforces.com/profile/sathwikshaga"> -->
+<!-- <img align="center" height="322" src="stats/codeforces_stats.svg" alt="sathwikshaga Codeforces Stats"/> -->
+<!-- </a> -->
+<!-- <a href="https://leetcode.com/sathwikshaga"> -->
+<!-- <img align="center" height="322" src="stats/leetcode_stats.svg" alt="sathwikshaga Leetcode Stats"/> -->
+<!-- </a> -->
 
-### Leetcode
+## Leetcode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sathwikshaga?hide=ranking)](https://leetcode.com/sathwikshaga)
 
 [def]: Badges
