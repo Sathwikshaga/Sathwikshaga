@@ -28,9 +28,9 @@
 
 - 📫 Feel free to reach me out [shagasathwik@gmail.com](mailto:shagasathwik@gmail.com)
 
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Artificial Intelligence, Machine Learning
 
-- 🌱 I’m currently learning **Nodejs, React, DSA**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, DSA**
 
 <!-- - 💞️ I’m looking to collaborate on ...-->
 
