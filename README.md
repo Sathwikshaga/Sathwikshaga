@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, DSA**
 
 # My Profile Links      
-CodeForces ► https://codeforces.com/profile/sathwikshaga 
+CodeForces ► https://codeforces.com/profile/sathwikshaga     
 CodeChef ► https://www.codechef.com/users/sathwik_shaga    
 LeetCode ► https://leetcode.com/sathwikshaga/
 
