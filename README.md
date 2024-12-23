@@ -19,7 +19,7 @@ CodeForces ► https://codeforces.com/profile/sathwikshaga
 CodeChef ► https://www.codechef.com/users/sathwik_shaga
 LeetCode ► https://leetcode.com/sathwikshaga/
 
-## 📈 Coding profiles stats
+<!-- ## 📈 Coding profiles stats -->
 
 <!-- <a href="https://codeforces.com/profile/sathwikshaga"> -->
 <!-- <img align="center" height="322" src="stats/codeforces_stats.svg" alt="sathwikshaga Codeforces Stats"/> -->
